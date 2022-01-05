@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menus1.png"><SubTexture name="menus1 soundicon0000" x="0" y="0" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 esckey0000" x="304" y="0" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 soundspace0000" x="608" y="0" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 soundspace0001" x="912" y="0" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 skylar0000" x="0" y="204" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 skylar0001" x="304" y="204" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 bf0000" x="608" y="204" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 bf0001" x="912" y="204" width="304" height="204" frameX="0" frameY="0" frameWidth="304" frameHeight="204" />
+<SubTexture name="menus1 modmenubutton0000" x="0" y="408" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="menus1 editmenubutton0000" x="404" y="408" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="menus1 modmenubutton0001" x="808" y="408" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+<SubTexture name="menus1 selectmenu0000" x="1212" y="408" width="811" height="109" frameX="0" frameY="0" frameWidth="811" frameHeight="109" />
+<SubTexture name="menus1 editmenubutton0001" x="0" y="812" width="404" height="404" frameX="0" frameY="0" frameWidth="404" frameHeight="404" />
+</TextureAtlas>
